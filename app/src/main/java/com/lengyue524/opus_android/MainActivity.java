@@ -12,11 +12,11 @@ import android.view.View;
 import android.widget.Button;
 
 
-import com.lengyue524.opus_android.opus.OpusConstants;
-import com.lengyue524.opus_android.opus.OpusDecoder;
-import com.lengyue524.opus_android.opus.OpusEncoder;
-import com.lengyue524.opus_android.opus.OpusPacket;
-import com.lengyue524.opus_android.opus.OpusUtils;
+import com.lengyue524.opus.OpusConstants;
+import com.lengyue524.opus.OpusDecoder;
+import com.lengyue524.opus.OpusEncoder;
+import com.lengyue524.opus.OpusPacket;
+import com.lengyue524.opus.OpusUtils;
 
 import java.io.File;
 import java.io.FileInputStream;

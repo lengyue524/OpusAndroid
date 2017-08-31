@@ -8,7 +8,8 @@ import android.media.AudioRecord;
 import android.media.MediaRecorder;
 import android.util.Log;
 
-import com.lengyue524.opus_android.opus.OpusConstants;
+import com.lengyue524.opus.OpusConstants;
+
 
 public class AudioCapturer {
 

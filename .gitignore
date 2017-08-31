@@ -11,3 +11,6 @@
 app/libs/
 app/src/main/java/$ModuleFileDir/
 app/src/main/res/drawable/
+opus/libs/
+opus/src/main/java/
+opus/src/main/res/drawable/
