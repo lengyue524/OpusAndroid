@@ -8,3 +8,6 @@
 /captures
 .externalNativeBuild
 .idea
+app/libs/
+app/src/main/java/$ModuleFileDir/
+app/src/main/res/drawable/
